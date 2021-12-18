@@ -24,17 +24,6 @@ mongoose.connect(MONGODB_URI, {
 // routes
 app.use(require("./routes/api.js"));
 
-mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost:27017/budget_tracker",
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  }
-);
-
-// Use this to log mongo queries being executed!
-mongoose.set("debug", true);
-
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
