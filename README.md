@@ -15,7 +15,6 @@
   * [Description](#description)
   * [Demo](#demo)
   * [Technical_Criteria](#technical_criteria)
-  * [Coming Soon](#coming_soon)
   * [Links](#links) 
 
   ## Description
@@ -34,10 +33,6 @@ As an avid traveler I want to be able to track my withdrawals and deposits with 
 - Application must include a web manifest.
 - Application must use IndexedDB for offline functionality.
 - Application must be deployed to Heroku.
-  
-## Coming_Soon
-  
-![image](https://media0.giphy.com/media/lNY0a9aJgFcCaDn1nw/giphy.gif?cid=ecf05e47psgv7yleo14azmxgq6al2ofi7e84ze6604v6z3qo&rid=giphy.gif&ct=g)
 
   ## Links
-  [Link to deployed application](https://github.com/izztnkr)
+  [Link to deployed application](https://secret-reaches-81612.herokuapp.com/)
