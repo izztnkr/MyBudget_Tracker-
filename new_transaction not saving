@@ -1,0 +1,4 @@
+[feature/offlineCapabilities 3f5550c] added all code for offline capabilities but still buggy at Application-
+ 3 files changed, 192 insertions(+), 88 deletions(-)
+ rewrite public/index.html (96%)
+ create mode 100644 public/js/idb.js
